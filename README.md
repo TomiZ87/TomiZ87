@@ -11,10 +11,12 @@ I am a Software Engineering student at GU/Chalmers breaking myths about ♿ Alwa
 - Embedded systems - Arduino & Raspberry 
 - (Always) how to make code less ugly
 
+<!--
 ### 🧰 Tech & Tools I Use
 - **Languages:** C, C#, C++, Python, Java, JavaScript, TypeScript, Go 
 - **Embedded:** Arduino, Raspberry Pi, Wio Terminal, sensors & modules  
 - **Tools:** Git, VS Code, Linux, Express.js  
+-->
 
 ---
 
