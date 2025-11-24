@@ -10,6 +10,7 @@ I am a Software Engineering student at GU/Chalmers breaking myths about ♿ Alwa
 - Data Structures and Algorithms
 - Embedded systems - Arduino & Raspberry 
 - (Always) how to make code less ugly
+- Languages
 
 <!--
 ### 🧰 Tech & Tools I Use
