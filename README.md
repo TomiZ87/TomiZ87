@@ -4,13 +4,13 @@ I am a Software Engineering student at GU/Chalmers breaking myths about ♿ Alwa
 ### 🔭 What I'm Working On  
 - ZGP-P - Zajic's Ground Probe Programme
 - Game Development
+- Linux CLI tool
 - Expanding my GitHub repos & contributing to various Student org's repos
 
 ### 🌱 What I'm Learning  
 - Data Structures and Algorithms
 - Embedded systems - Arduino & Raspberry 
 - (Always) how to make code less ugly
-- Languages
 
 <!--
 ### 🧰 Tech & Tools I Use
