@@ -4,6 +4,7 @@ I am a Software Engineering student at GU/Chalmers breaking myths about ♿ Alwa
 ### 🔭 What I'm Working On  
 - ZGP-P - Zajic's Ground Probe Programme
 - Game Development
+- A few web projects
 - Linux CLI tool
 - Expanding my GitHub repos & contributing to various Student org's repos
 
