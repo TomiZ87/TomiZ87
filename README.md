@@ -10,7 +10,7 @@ I am a Software Engineering student at GU/Chalmers breaking myths about ♿ Alwa
 
 ### 🌱 What I'm Learning  
 - Data Structures and Algorithms
-- Embedded systems - Arduino & Raspberry 
+- Embedded systems - Arduino & Wio Terminal 
 - (Always) how to make code less ugly
 
 <!--
