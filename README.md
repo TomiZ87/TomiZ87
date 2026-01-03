@@ -6,7 +6,7 @@ I am a Software Engineering student at GU/Chalmers breaking myths about ♿ Alwa
 - Game Development
 - A few web projects
 - Linux CLI tool
-- Expanding my GitHub repos & contributing to various Student org's repos
+- Expanding my GitHub repos & contributing to <a href="https://github.com/skipgu">Skip - Student Association at GU</a>
 
 ### 🌱 What I'm Learning
 - Data Structures and Algorithms
