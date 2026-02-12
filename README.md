@@ -2,7 +2,7 @@
 I am a Software Engineering student at GU/Chalmers breaking myths about ♿ Always on the lookout for new challenges!
 
 ### 🔭 What I'm Working On
-- ZGP-P - Zajic's Ground Probe Programme
+- <a href="https://github.com/TomiZ87/ZGP-P">ZGP-P</a> - Zajic's Ground Probe Programme
 - Game Development
 - A few web projects
 - Linux CLI tool
