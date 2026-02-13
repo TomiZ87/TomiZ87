@@ -4,6 +4,7 @@ I am a Software Engineering student at GU/Chalmers breaking myths about ♿ Alwa
 ### 🔭 What I'm Working On
 - <a href="https://github.com/TomiZ87/ZGP-P">ZGP-P</a> - Zajic's Ground Probe Programme
 - Game Development
+- <a href="https://youtube.com/@tomizdev">Videos</a> about programming and my projects
 - A few web projects
 - Linux CLI tool
 - Expanding my GitHub repos & contributing to <a href="https://github.com/skipgu">Skip - Student Association at GU</a>
