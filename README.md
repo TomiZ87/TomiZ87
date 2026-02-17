@@ -6,7 +6,7 @@ I am a Software Engineering student at GU/Chalmers breaking myths about ♿ Alwa
 - Game Development
 - <a href="https://youtube.com/@tomizdev">Videos</a> about programming and my projects
 - A few web projects
-- Linux CLI tool
+- A CLI tool for productivity
 - Expanding my GitHub repos & contributing to <a href="https://github.com/skipgu">Skip - Student Association at GU</a>
 
 ### 🌱 What I'm Learning
