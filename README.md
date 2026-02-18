@@ -17,7 +17,7 @@ I am a Software Engineering student at GU/Chalmers breaking myths about ♿ Alwa
 ### 🧰 Tech & Tools I Use
 - **Languages:** C, C#, C++, Python, Java, JavaScript, TypeScript, Go + Learning Rust
 - **Embedded:** Arduino, Raspberry Pi, Wio Terminal, sensors & modules
-- **Tools:** Git, VS Code, Linux, Express.js , Vue.js, BootstrapVueNext + Learning NVIM
+- **Tools:** Git, VS Code, Express.js , Vue.js, BootstrapVueNext + Learning NVIM
 
 ---
 
