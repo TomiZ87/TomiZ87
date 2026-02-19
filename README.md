@@ -3,10 +3,10 @@ I am a Software Engineering student at GU/Chalmers breaking myths about ♿ Alwa
 
 ### 🔭 What I'm Working On
 - <a href="https://github.com/TomiZ87/ZGP-P">ZGP-P</a> - Zajic's Ground Probe Programme
-- Game Development
+- Game Development & Devlogs
 - <a href="https://youtube.com/@tomizdev">Videos</a> about programming and my projects
 - A few web projects
-- A CLI tool for productivity
+- CLI tool for productivity
 - Expanding my GitHub repos & contributing to <a href="https://github.com/skipgu">Skip - Student Association at GU</a>
 
 ### 🌱 What I'm Learning
