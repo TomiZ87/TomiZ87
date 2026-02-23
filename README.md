@@ -13,9 +13,9 @@ I am a Software Engineering student at GU/Chalmers breaking myths about ♿ Alwa
 - Embedded systems - Arduino & Wio Terminal
 - (Always) how to make code less ugly
 
-### 🧰 Tech & Tools I Use
+### 🧰 Tech & Tools I Use / have used
 - **Languages:** C, C#, C++, Python, Java, JavaScript, TypeScript, Go + Learning Rust
-- **Embedded:** Arduino, Raspberry Pi, Wio Terminal, sensors & modules
+- **Embedded systems and devices:** Arduino, Raspberry Pi, Wio Terminal, sensors & modules
 - **Tools:** Git, VS Code, Express.js , Vue.js, BootstrapVueNext + Learning NVIM
 
 ---
