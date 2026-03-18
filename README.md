@@ -2,7 +2,7 @@
 I am a Software Engineering and Management B.Sc. student at University of Gothenburg / Chalmers breaking myths about ♿ Always on the lookout for new challenges!
 
 ### 🔭 What I'm Working On
-- <a href="https://github.com/TomiZ87/ZGP-P">ZGP-P</a> - Zajic's Ground Probe Programme
+- <a href="https://github.com/TomiZ87/ZGP-P">ZGP-P</a> - Zajic's Ground Probe Programme - An Embedded system project
 - Game Development & Devlogs
 - <a href="https://youtube.com/@tomizdev">Videos</a> about programming and my projects
 - CLI tool for productivity in Rust
