@@ -10,6 +10,7 @@ I am a Software Engineering and Management B.Sc. student at University of Gothen
 
 ### 🌱 What I'm Learning
 - Data Structures and Algorithms
+- About Functional and Proceducal Programming paradigmes
 - Embedded systems - Arduino & Wio Terminal
 - (Always) how to make code less ugly
 
