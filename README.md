@@ -1,6 +1,8 @@
 # Hi there 👋 :shipit:
 I am a Software Engineering and Management B.Sc. student at University of Gothenburg / Chalmers breaking myths about ♿ Always on the lookout for new challenges!
 
+Linux and CLI enthusiast
+
 ### 🔭 What I'm Working On
 - <a href="https://github.com/TomiZ87/ZGP-P">ZGP-P</a> - Zajic's Ground Probe Programme - An Embedded system project
 - Game Development & Devlogs
@@ -15,7 +17,7 @@ I am a Software Engineering and Management B.Sc. student at University of Gothen
 - (Always) how to make code less ugly
 
 ### 🧰 Tech & Tools I Use / have used
-- **Languages:** C, C#, C++, Python, Java, JavaScript, TypeScript, Go + Learning Rust & Bash
+- **Languages:** C/C++, C#, Python, Java, JavaScript, TypeScript, Go + Learning Rust & Bash
 - **Embedded systems and devices:** Arduino, Raspberry Pi, Wio Terminal, sensors & modules
 - **Tools:** Git, VS Code, Express.js, Vue.js, BootstrapVueNext, MongoDB + Learning NVIM
 
