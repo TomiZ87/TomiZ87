@@ -8,6 +8,7 @@ Linux and CLI enthusiast
 - Game Development & Devlogs
 - <a href="https://youtube.com/@tomizdev">Videos</a> about programming and my projects
 - CLI tool for productivity in Rust
+- A HomeLab
 - Expanding my GitHub repos & contributing to <a href="https://github.com/skipgu">Skip - Student Association at GU</a>
 
 ### 🌱 What I'm Learning
