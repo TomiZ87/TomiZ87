@@ -9,6 +9,7 @@ Linux and CLI enthusiast
 - <a href="https://youtube.com/@tomizdev">Videos</a> about programming and my projects
 - CLI tool for productivity in Rust
 - A HomeLab
+- Experimenting with various LLMs
 - LLM-powered Swimming data reader/analyser from Strava
 - Expanding my GitHub repos & contributing to <a href="https://github.com/skipgu">Skip - Student Association at GU</a>
 
