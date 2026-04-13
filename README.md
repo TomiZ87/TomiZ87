@@ -8,9 +8,9 @@ Linux and CLI enthusiast
 - Game Development & Devlogs
 - <a href="https://youtube.com/@tomizdev">Videos</a> about programming and my projects
 - CLI tool for productivity in Rust
-- A HomeLab
-- Experimenting with various LLMs
-- LLM-powered Swimming data reader/analyser from Strava
+- HomeLab Setup (with NAS and useful services for every day use)
+- Experimenting with various (+local) LLMs
+- Swimming data reader/analyser from Strava/Apple Health (Possibly + TUI)
 - Expanding my GitHub repos & contributing to <a href="https://github.com/skipgu">Skip - Student Association at GU</a>
 
 ### 🌱 What I'm Learning
@@ -22,7 +22,7 @@ Linux and CLI enthusiast
 ### 🧰 Tech & Tools I Use / have used
 - **Languages:** C/C++, C#, Python, Java, JavaScript, TypeScript, Go + Learning Rust & Bash
 - **Embedded systems and devices:** Arduino, Raspberry Pi, Wio Terminal, sensors & modules
-- **Tools:** Git, VS Code, Express.js, Vue.js, BootstrapVueNext, MongoDB + Learning NVIM
+- **Tools:** Git, Docker, VS Code, Express.js, Vue.js, BootstrapVueNext, MongoDB + Learning NVIM
 
 ---
 
