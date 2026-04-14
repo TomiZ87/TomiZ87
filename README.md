@@ -10,7 +10,7 @@ Linux and CLI enthusiast
 - CLI tool for productivity in Rust
 - HomeLab Setup (with NAS and useful services for every day use)
 - Experimenting with various (+local) LLMs
-- Swimming data reader/analyser from Strava/Apple Health (Possibly + TUI)
+- Swimming data reader/analyser from Strava/Apple Health (+ TUI)
 - Expanding my GitHub repos & contributing to <a href="https://github.com/skipgu">Skip - Student Association at GU</a>
 
 ### 🌱 What I'm Learning
