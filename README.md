@@ -17,6 +17,7 @@ Linux and CLI enthusiast
 - Data Structures and Algorithms
 - About Functional and Proceducal Programming paradigmes
 - Embedded systems - Arduino & Wio Terminal
+- Functional & Reflexive Programming
 - (Always) how to make code less ugly
 
 ### 🧰 Tech & Tools I Use / have used
