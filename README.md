@@ -7,7 +7,7 @@ Linux and CLI enthusiast
 - <a href="https://github.com/TomiZ87/ZGP-P">ZGP-P</a> - Zajic's Ground Probe Programme - An Embedded system project
 - Game Development & Devlogs
 - <a href="https://youtube.com/@tomizdev">Videos</a> about programming and my projects
-- CLI tool for productivity in Rust
+- CLI tool for productivity in Rust (PUT ON HOLD)
 - HomeLab Setup (with NAS and useful services for every day use) (PUT ON HOLD)
 - Experimenting with various (+local) LLMs
 - Swimming data reader/analyser from Strava/Apple Health (+ TUI)
