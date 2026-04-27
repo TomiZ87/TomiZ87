@@ -18,7 +18,7 @@ I am a Software Engineering and Management B.Sc. student at University of Gothen
 - About Functional and Proceducal Programming paradigmes
 - Embedded systems - Arduino & Wio Terminal
 - Functional & Reflexive Programming
-- (Always) how to make code less ugly
+- (Always) how to make code less ugly and optimized
 
 ### 🧰 Tech & Tools I Use / have used
 - **Languages:** C/C++, C#, Python, Java, JavaScript, TypeScript, Go + Learning Rust & Bash
