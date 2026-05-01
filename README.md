@@ -1,7 +1,7 @@
 # Hi there 👋 :shipit:
 I am a Software Engineering and Management B.Sc. student at University of Gothenburg / Chalmers breaking myths about ♿ Always on the lookout for new challenges!
 
-Chairman at <a href="https://github.com/skipgu">Skip - Student Association</a>
+Incoming Chairman at <a href="https://github.com/skipgu">Skip - Student Association</a>
 
 💻 Linux and CLI enthusiast 🖥️
 
