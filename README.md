@@ -7,17 +7,17 @@ I am a Software Engineering and Management B.Sc. student at University of Gothen
 
 ### 🔭 What I'm Working On
 - <a href="https://github.com/TomiZ87/ZGP-P">ZGP-P</a> - Zajic's Ground Probe Programme - An Embedded system project
-- Game Development & Devlogs
 - <a href="https://youtube.com/@tomizdev">Videos</a> about programming and my projects
-- CLI tool for productivity in Rust (PUT ON HOLD)
-- HomeLab Setup (with NAS and useful services for every day use) (PUT ON HOLD)
+- Game Development & Devlogs
 - Experimenting with various (+local) LLMs
 - Swimming data reader/analyser from Strava/Apple Health (+ TUI)
+- CLI tool for productivity in Rust (PUT ON HOLD)
+- HomeLab Setup (with NAS and useful services for every day use) (PUT ON HOLD)
 - Expanding my GitHub repos & contributing to <a href="https://github.com/skipgu">Skip - Student Association at GU</a>
 
 ### 🌱 What I'm Learning
 - Data Structures and Algorithms
-- About Linux
+- About Linux and distros
 - About Functional and Proceducal Programming paradigmes
 - Embedded systems - Arduino & Wio Terminal
 - Functional & Reflexive Programming
