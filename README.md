@@ -17,10 +17,10 @@ I am a Software Engineering and Management B.Sc. student at University of Gothen
 
 ### 🌱 What I'm Learning
 - Data Structures and Algorithms
+- Linear Algebra & Calculus
 - About Linux and distros
-- About Functional and Proceducal Programming paradigmes
+- About Functional, Object-Oriented, Reflexive and Proceducal Programming paradigmes
 - Embedded systems - Arduino & Wio Terminal
-- Functional & Reflexive Programming
 - (Always) how to make code less ugly and optimized
 
 ### 🧰 Tech & Tools I Use / have used
