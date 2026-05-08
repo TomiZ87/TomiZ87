@@ -19,7 +19,7 @@ I am a Software Engineering and Management B.Sc. student at University of Gothen
 - Data Structures and Algorithms
 - Linear Algebra & Calculus
 - About Linux and distros
-- About Functional, Object-Oriented, Reflexive and Proceducal Programming paradigmes
+- About Functional, Object-Oriented, Reflexive, Proceducal and other Programming paradigmes
 - Embedded systems - Arduino & Wio Terminal
 - (Always) how to make code less ugly and optimized
 
