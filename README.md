@@ -13,7 +13,7 @@ I am a Software Engineering and Management B.Sc. student @ University of Gothenb
 - Swimming data reader/analyser from Strava/Apple Health (+ TUI)
 - CLI tool for productivity in Rust (PUT ON HOLD)
 - HomeLab Setup (with NAS and useful services for every day use) (PUT ON HOLD)
-- Expanding my GitHub repos & contributing to <a href="https://github.com/skipgu">Skip - Student Association at GU</a>
+- Expanding my GitHub repos & contributing to <a href="https://github.com/skipgu">Skip</a>
 
 ### 🌱 What I'm Learning
 - Data Structures and Algorithms
