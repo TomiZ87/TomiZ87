@@ -20,7 +20,7 @@ I am a Software Engineering and Management B.Sc. student @ University of Gothenb
 - Linear Algebra & Calculus I
 - Diving into Linux and its distros
 - About Functional, Object-Oriented, Reflexive, Proceducal and other Programming paradigmes
-- Embedded systems - Arduino & Wio Terminal
+- Embedded systems - Arduino, Raspberry PI & Wio Terminal
 - How to better swim!
 - (Always) how to make code less ugly and optimized
 
