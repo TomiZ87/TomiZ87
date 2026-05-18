@@ -9,7 +9,7 @@ I am a Software Engineering and Management B.Sc. student @ University of Gothenb
 - <a href="https://github.com/TomiZ87/ZGP-P">ZGP-P</a> - Zajic's Ground Probe Programme - An Embedded system project
 - <a href="https://youtube.com/@tomizdev">Videos</a> about programming and my projects
 - Game Development & Devlogs
-- Experimenting with various (+local) LLMs
+- Experimenting with various (+ local) LLMs
 - Swimming data reader/analyser from Strava/Apple Health (+ TUI)
 - CLI tool for productivity in Rust (PUT ON HOLD)
 - HomeLab Setup (with NAS and useful services for every day use) (PUT ON HOLD)
@@ -20,7 +20,7 @@ I am a Software Engineering and Management B.Sc. student @ University of Gothenb
 - Linear Algebra & Calculus I
 - Diving into Linux and its distros
 - About Functional, Object-Oriented, Reflexive, Proceducal and other Programming paradigmes
-- Embedded systems - Arduino, Raspberry PI & Wio Terminal
+- Embedded and Real-Time systems - Arduino, Raspberry PI & Wio Terminal
 - How to better swim!
 - (Always) how to make code less ugly and optimized
 
