@@ -18,7 +18,7 @@ I am a Software Engineering and Management B.Sc. student @ University of Gothenb
 
 ### 🌱 What I'm Learning
 - Data Structures and Algorithms
-- Linear Algebra & Calculus I
+- Linear Algebra & Calculus
 - Diving into Linux and its distros
 - About Functional, Object-Oriented, Reflexive, Proceducal and other Programming paradigmes
 - Embedded and Real-Time systems - Arduino, Raspberry PI & Wio Terminal
