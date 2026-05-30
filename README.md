@@ -7,7 +7,7 @@ I am a Software Engineering and Management B.Sc. student @ University of Gothenb
 
 ### 🔭 What I'm Working On
 - <a href="https://github.com/TomiZ87/ZGP-P">ZGP-P</a> - Zajic's Ground Probe Programme - An Embedded system development project
-- <a href="https://youtube.com/@tomizdev">Videos</a> about programming and my projects
+- <a href="https://youtube.com/@tomizdev">Videos</a> about programming, devlogs, and my projects
 - Game Development & Devlogs
 - Personal Website
 - Experimenting with various (+ local) LLMs
