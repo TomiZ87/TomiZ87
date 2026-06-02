@@ -11,7 +11,7 @@ I am a Software Engineering and Management B.Sc. student @ University of Gothenb
 - Game Development & Devlogs
 - Personal Website
 - Experimenting with various (+ local) LLMs
-- Swimming data reader/analyser from Strava/Apple Health (+ TUI)
+- Swimming data reader/analyser from Strava/Apple Health (+ Food/Calorie Tracker with TUI)
 - CLI tool for productivity in Rust (PUT ON HOLD)
 - HomeLab Setup (with NAS and useful services for every day use) (PUT ON HOLD)
 - Expanding my GitHub repos & contributing to <a href="https://github.com/skipgu">Skip</a>
