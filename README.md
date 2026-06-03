@@ -20,7 +20,7 @@ I am a Software Engineering and Management B.Sc. student @ University of Gothenb
 - Data Structures and Algorithms
 - Linear Algebra & Calculus
 - Diving into Linux and its distros
-- About Functional, Object-Oriented, Reflexive, Proceducal and other Programming paradigmes
+- About Functional, Object-Oriented, Reactive, Proceducal and other Programming paradigmes
 - Embedded and Real-Time systems - Arduino, Raspberry PI & Wio Terminal
 - How to better swim!
 - Microservices & Pipelining
