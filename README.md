@@ -27,7 +27,7 @@ I am a Software Engineering and Management B.Sc. student @ University of Gothenb
 - (Always) how to make code less ugly and optimized
 
 ### 🧰 Tech & Tools I Use / have used
-- **Languages:** C/C++, C#, Python, Java, JavaScript, TypeScript, Go + Learning Rust & Bash
+- **Languages:** C/C++, C#, Python, Java, JavaScript, TypeScript, Go + Learning Rust, Haskell & Bash
 - **Embedded systems and devices:** Arduino, Raspberry Pi, Wio Terminal, sensors & modules
 - **Tools:** Git, Docker, VS Code, Express.js, Vue.js, BootstrapVueNext, MongoDB + Learning NVIM
 
