@@ -23,7 +23,6 @@ I am a Software Engineering and Management B.Sc. student @ University of Gothenb
 - About Functional, Object-Oriented, Reactive, Proceducal and other Programming paradigmes
 - Embedded and Real-Time systems - Arduino, Raspberry PI & Wio Terminal
 - How to better swim!
-- Software Assurance & Testing
 - (Always) how to make code less ugly and optimized
 
 ### 🧰 Tech & Tools I Use / have used
