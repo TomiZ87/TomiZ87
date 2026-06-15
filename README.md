@@ -1,7 +1,7 @@
 # Hi there 👋 :shipit:
 I am a Software Engineering and Management B.Sc. 2nd year (soon 3rd year) student @ University of Gothenburg (GU) & Chalmers breaking myths about ♿ Always on the lookout for new challenges!
 
-🪑 Chairman <a href="https://skipgu.org/">@Skip</a> - Student Association for Knowledge in Informatics and Programming
+🪑 Chairman @ <a href="https://skipgu.org/">Skip</a> - Student Association for Knowledge in Informatics and Programming
 
 💻 Linux and CLI/TUI enthusiast 🖥️
 
@@ -14,7 +14,7 @@ I am a Software Engineering and Management B.Sc. 2nd year (soon 3rd year) studen
 - Swimming data reader/analyser from Strava/Apple Health (+ Food/Calorie Tracker with TUI)
 - CLI tool for productivity in Rust (PUT ON HOLD)
 - HomeLab Setup (with NAS and useful services for every day use) (PUT ON HOLD)
-- Expanding my GitHub repos & contributing to <a href="https://skipgu.org/">@Skip</a>.
+- Expanding my GitHub repos & contributing @ <a href="https://skipgu.org/">Skip</a>.
 
 ### 🌱 What I'm Learning
 - Data Structures and Algorithms
