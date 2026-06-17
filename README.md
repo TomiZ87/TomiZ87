@@ -1,5 +1,5 @@
 # Hi there 👋 :shipit:
-I am a Software Engineering and Management B.Sc. 2nd year (soon 3rd year) student @ University of Gothenburg (GU) & Chalmers breaking myths about ♿ Always on the lookout for new challenges!
+I am a Software Engineering and Management B.Sc. 2nd year (soon 3rd year) student @ University of Gothenburg (GU) & Chalmers University of Technology breaking myths about ♿ Always on the lookout for new challenges!
 
 🪑 Chairman @ <a href="https://skipgu.org/">Skip</a> - Student Association for Knowledge in Informatics and Programming
 
