@@ -21,7 +21,7 @@ I am a Software Engineering and Management B.Sc. 2nd year (soon 3rd year) studen
 - Linear Algebra & Calculus
 - Diving into Linux and its distros
 - About Functional, Object-Oriented, Reactive, Proceducal and other Programming paradigmes
-- Embedded and Real-Time systems - Arduino, Raspberry PI & Wio Terminal
+- Embedded and Real-Time systems - Arduino, Raspberry PI & Wio Terminal...
 - How to better swim!
 - Swedish & Linguistics
 - (Always) how to make code less ugly and optimized
