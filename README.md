@@ -11,7 +11,7 @@ I am a Software Engineering and Management B.Sc. 2nd year (soon 3rd year) studen
 - Game Development & Devlogs
 - Personal Website (SOON)
 - Experimenting with various (+ local) LLMs
-- Swimming data reader/analyser from Strava/Apple Health (+ Food/Calorie Tracker with TUI)
+- Swimming data reader/analyser/analytics from Strava/Apple Health (+ Food/Calorie Tracker with TUI)
 - CLI tool for productivity in Rust (PUT ON HOLD)
 - HomeLab Setup (with NAS and useful services for every day use) (PUT ON HOLD)
 - Expanding my GitHub repos & contributing @ <a href="https://skipgu.org/">Skip</a>.
