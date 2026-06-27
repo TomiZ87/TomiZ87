@@ -23,7 +23,7 @@ I am a Software Engineering and Management B.Sc. 2nd year (soon 3rd year) studen
 - About Functional, Object-Oriented, Reactive, Proceducal and other Programming paradigmes
 - Embedded and Real-Time systems - Arduino, Raspberry PI & Wio Terminal...
 - How to better swim!
-- Swedish & Occasionally Linguistics
+- Swedish (B1->B2) & Occasionally Linguistics
 - (Always) how to make code less ugly and optimized
 
 ### 🧰 Tech & Tools I Use / have used
