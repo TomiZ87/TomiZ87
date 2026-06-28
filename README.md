@@ -8,7 +8,7 @@ I am a Software Engineering and Management B.Sc. 2nd year (soon 3rd year) studen
 ### 🔭 What I'm Working On
 - <a href="https://github.com/TomiZ87/ZGP-P">ZGP-P</a> - Zajic's Ground Probe Programme - An Embedded system development project
 - <a href="https://youtube.com/@tomizdev">Videos</a> about programming, devlogs, and my projects
-- Game Development & Devlogs
+- Game Development & Devlogs (SOON AGAIN)
 - Personal Website (SOON)
 - Experimenting with various remote & locally running LLMs
 - Swimming data reader/analyser/analytics from Strava/Apple Health (+ Food/Calorie Tracker with TUI) (ON HOLD)
