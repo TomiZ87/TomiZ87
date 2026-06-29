@@ -14,6 +14,7 @@ I am a Software Engineering and Management B.Sc. 2nd year (soon 3rd year) studen
 - Swimming data reader/analyser/analytics from Strava/Apple Health (+ Food/Calorie Tracker with TUI) (ON HOLD)
 - CLI tool for productivity in Rust (PUT ON HOLD)
 - HomeLab Setup (with NAS and useful services for every day use) (PUT ON HOLD)
+- Interactive Map of Tram Accessibility - Bratislava (SOON)
 - Expanding my GitHub repos & contributing @ <a href="https://skipgu.org/">Skip</a>.
 
 ### 🌱 What I'm Learning
