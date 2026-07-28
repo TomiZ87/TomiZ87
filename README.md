@@ -11,7 +11,7 @@ I am a Software Engineering and Management B.Sc. 3rd year student @ University o
 - Game Development & Devlogs (SOON AGAIN)
 - Personal Website (SOON)
 - Experimenting with various remote & locally running LLMs
-- Swimming data reader/analyser/analytics from Strava/Apple Health - CLI/TUI (ON HOLD)
+- Swimming data reader/statistics from Strava/Apple Health - CLI/TUI (ON HOLD)
 - CLI tool for productivity in Rust (ON HOLD)
 - HomeLab Setup (with NAS and useful services for every day use) (ON HOLD)
 - Interactive Map of Tram Accessibility for Wheelchair users - Bratislava (SOON)
