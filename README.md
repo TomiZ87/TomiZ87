@@ -15,13 +15,13 @@ I am a Software Engineering and Management B.Sc. 3rd year student @ University o
 - CLI tool for productivity in Rust (ON HOLD)
 - HomeLab Setup (with NAS and useful services for every day use) (ON HOLD)
 - Interactive Map of Tram Accessibility for Wheelchair users - Bratislava (SOON)
-- Expanding my GitHub repos & contributing @ <a href="https://skipgu.org/">Skip</a>.
+- Expanding my GitHub repositories & contributing @ <a href="https://skipgu.org/">Skip</a>.
 
 ### 🌱 What I'm Learning
 - Data Structures and Algorithms
 - Linear Algebra & Calculus
 - Diving into Linux and its distros
-- About Functional, Object-Oriented, Reactive, Proceducal and other Programming paradigmes
+- About Functional, Object-Oriented, Reactive, Procedural and other Programming paradigms
 - Embedded and Real-Time systems - Arduino, Raspberry PI & Wio Terminal...
 - How to better swim!
 - Swedish (B1->B2) & Occasionally Linguistics
