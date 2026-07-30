@@ -3,7 +3,7 @@ I am a Software Engineering and Management B.Sc. 3rd year student @ University o
 
 <a href="https://www.linkedin.com/in/tomas-zajic/">LinkedIn</a> | 🪑 Chairman @ <a href="https://skipgu.org/">Skip</a> - Student Association for Knowledge in Informatics and Programming at GU
 
-💻 Linux and CLI/TUI enthusiast 🖥️
+💻 Linux, CLI & TUI enthusiast 🖥️
 
 ### 🔭 What I'm Working On
 - <a href="https://github.com/TomiZ87/ZGP-P">ZGP-P</a> - Zajic's Ground Probe Programme - An Embedded system development project (ZGP-3 SOON)
