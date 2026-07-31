@@ -10,22 +10,22 @@ I am a Software Engineering and Management B.Sc. 3rd year student @ University o
 - <a href="https://youtube.com/@tomizdev">Videos</a> about programming, devlogs, and my projects
 - Game Development & Devlogs (SOON AGAIN)
 - Personal Website (SOON)
-- Experimenting with various remote & locally running LLMs
-- Swimming data reader/statistics from Strava/Apple Health - CLI/TUI (ON HOLD)
 - CLI tool for productivity in Rust (ON HOLD)
+- Experimenting with various remote & locally running LLMs
 - HomeLab Setup (with NAS and useful services for every day use) (ON HOLD)
+- Swimming data reader/statistics from Strava/Apple Health - CLI/TUI (ON HOLD)
 - Interactive Map of Tram Accessibility for Wheelchair users - Bratislava (SOON)
 - Expanding my GitHub repositories & contributing @ <a href="https://skipgu.org/">Skip</a>.
 
 ### 🌱 What I'm Learning
-- Data Structures and Algorithms
 - Linear Algebra & Calculus
+- Data Structures and Algorithms
 - Diving into Linux and its distros
 - About Functional, Object-Oriented, Reactive, Procedural and other Programming paradigms
 - Embedded and Real-Time systems - Arduino, Raspberry PI & Wio Terminal...
-- How to better swim!
-- Swedish (B1->B2) & Occasionally Linguistics
 - (Always) how to make code less ugly and optimized
+- Swedish (B1->B2) & Occasionally Linguistics
+- How to better swim!
 
 ### 🧰 Tech & Tools I Use / have used
 - **Languages:** C/C++, C#, Python, Java, JavaScript, TypeScript, Go + Learning Rust, Haskell & Bash
