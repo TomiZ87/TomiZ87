@@ -9,7 +9,7 @@ I am a Software Engineering and Management B.Sc. 3rd year student @ University o
 - <a href="https://github.com/TomiZ87/ZGP-P">ZGP-P</a> - Zajic's Ground Probe Programme - An Embedded system development project (ZGP-3 SOON)
 - <a href="https://youtube.com/@tomizdev">Videos</a> about programming, devlogs, and my projects
 - Game Development & Devlogs (ON HOLD)
-- Personal Website (SOON)
+- Personal Website (ON HOLD)
 - CLI tool for productivity in Rust (ON HOLD)
 - Experimenting with various remote & locally running LLMs
 - HomeLab Setup (with NAS and useful services for every day use) (ON HOLD)
