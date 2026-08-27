@@ -14,7 +14,7 @@ I am a Software Engineering and Management B.Sc. 3rd year student @ University o
 - Experimenting with various remote & locally running LLMs
 - HomeLab Setup (with NAS and useful services for every day use) (ON HOLD)
 - Swimming data reader/statistics from Strava/Apple Health - CLI/TUI (ON HOLD)
-- Interactive Map of Tram Accessibility for Wheelchair users - Bratislava (SOON)
+- Interactive Map of Tram Accessibility for Wheelchair users - Bratislava (ON HOLD)
 - Expanding my GitHub repositories & contributing @ <a href="https://skipgu.org/">Skip</a>.
 
 ### 🌱 What I'm Learning
