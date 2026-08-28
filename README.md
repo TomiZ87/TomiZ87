@@ -10,6 +10,7 @@ I am a Software Engineering and Management B.Sc. 3rd year student @ University o
 - <a href="https://youtube.com/@tomizdev">Videos</a> about programming, devlogs, and my projects
 - Game Development & Devlogs (ON HOLD)
 - Personal Website (ON HOLD)
+- Improving my speaking and presenting skills
 - CLI tool for productivity in Rust (ON HOLD)
 - Experimenting with various remote & locally running LLMs
 - HomeLab Setup (with NAS and useful services for every day use) (ON HOLD)
