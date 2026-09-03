@@ -8,15 +8,15 @@ I am a Software Engineering and Management B.Sc. 3rd year student @ University o
 ### 🔭 What I'm Working On
 - Personal Website (ON HOLD)
 - Game Development & Devlogs (ON HOLD)
-- Improving my speaking and presenting skills
 - CLI tool for productivity in Rust (ON HOLD)
-- <a href="https://github.com/TomiZ87/ZGP-P">ZGP-P</a> - Zajic's Ground Probe Programme - An Embedded system development project (ZGP-3 SOON)
-- <a href="https://youtube.com/@tomizdev">Videos</a> about programming, devlogs, and my projects
+- Improving my speaking and presenting skills
 - Experimenting with various remote & locally running LLMs
 - HomeLab Setup (with NAS and useful services for every day use) (ON HOLD)
 - Swimming data reader/statistics from Strava/Apple Health - CLI/TUI (ON HOLD)
 - Interactive Map of Tram Accessibility for Wheelchair users - Bratislava (ON HOLD)
 - Expanding my GitHub repositories & contributing @ <a href="https://skipgu.org/">Skip</a>.
+- <a href="https://youtube.com/@tomizdev">Videos</a> about programming, devlogs, and my projects
+- <a href="https://github.com/TomiZ87/ZGP-P">ZGP-P</a> - Zajic's Ground Probe Programme - An Embedded system development project (ZGP-3 SOON)
 
 ### 🌱 What I'm Learning
 - Linear Algebra & Calculus
