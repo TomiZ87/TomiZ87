@@ -19,14 +19,14 @@ I am a Software Engineering and Management B.Sc. 3rd year student @ University o
 - <a href="https://github.com/TomiZ87/ZGP-P">ZGP-P</a> - Zajic's Ground Probe Programme - An Embedded system development project (ZGP-3 SOON)
 
 ### 🌱 What I'm Learning
+- How to better swim!
 - Linear Algebra & Calculus
 - Data Structures and Algorithms
 - Diving into Linux and its distros
-- About Functional, Object-Oriented, Reactive, Procedural and other Programming paradigms
-- Embedded and Real-Time systems - Arduino, Raspberry PI & Wio Terminal...
-- (Always) how to make code less ugly and optimized
 - Swedish (B1->B2) & Occasionally Linguistics
-- How to better swim!
+- (Always) how to make code less ugly and optimized
+- Embedded and Real-Time systems - Arduino, Raspberry PI & Wio Terminal...
+- About Functional, Object-Oriented, Reactive, Procedural and other Programming paradigms
 
 ### 🧰 Tech & Tools I Use / have used
 - **Languages:** C/C++, C#, Python, Java, JavaScript, TypeScript, Go + Learning Rust, Haskell & Bash
