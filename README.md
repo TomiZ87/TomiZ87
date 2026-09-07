@@ -6,8 +6,8 @@ I am a Software Engineering and Management B.Sc. 3rd year student @ University o
 💻 Linux, CLI & TUI enthusiast 🖥️
 
 ### 🔭 What I'm Working On
-- Personal Website (ON HOLD)
-- Game Development & Devlogs (ON HOLD)
+- Personal Website
+- Game Development & Devlogs
 - CLI tool for productivity in Rust (ON HOLD)
 - Improving my speaking and presenting skills
 - <a href="https://youtube.com/@tomizdev">Videos</a> about programming, devlogs, and my projects
