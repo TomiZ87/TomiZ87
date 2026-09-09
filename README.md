@@ -23,7 +23,7 @@ I am a Software Engineering and Management B.Sc. 3rd year student @ University o
 - How to better swim!
 - Linear Algebra & Calculus
 - Data Structures and Algorithms
-- Diving into Linux and its distros
+- Diving into Linux and its distributions
 - Swedish (B1->B2) & Occasionally Linguistics
 - (Always) how to make code less ugly and optimized
 - Embedded and Real-Time systems - Arduino, Raspberry PI & Wio Terminal...
