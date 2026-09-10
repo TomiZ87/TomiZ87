@@ -23,6 +23,7 @@ I am a Software Engineering and Management B.Sc. 3rd year student @ University o
 - How to better swim!
 - Linear Algebra & Calculus
 - Data Structures and Algorithms
+- Geographical Information System (GIS)
 - Diving into Linux and its distributions
 - Swedish (B1->B2) & Occasionally Linguistics
 - (Always) how to make code less ugly and optimized
