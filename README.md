@@ -9,7 +9,7 @@ I am a Software Engineering and Management B.Sc. 3rd year student @ University o
 - Personal Website
 - Game Development & Devlogs
 - CLI tool for productivity in Rust (ON HOLD)
-- Improving my speaking and presenting skills
+- Improving my speaking, teaching & presenting skills
 - <a href="https://youtube.com/@tomizdev">Videos</a> about programming, devlogs, and my projects
 - Expanding my GitHub repositories & contributing @ <a href="https://skipgu.org/">Skip</a>.
 - Experimenting with various remote & locally running LLMs
