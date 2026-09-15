@@ -19,6 +19,7 @@ I am a Software Engineering and Management B.Sc. 3rd year student @ University o
 - <a href="https://github.com/TomiZ87/ZGP-P">ZGP-P</a> - Zajic's Ground Probe Programme - An Embedded system development project (ZGP-3 SOON)
 
 ### 🌱 What I'm Learning
+- Machine Learning
 - How to better swim!
 - Linear Algebra & Calculus
 - Data Structures and Algorithms
