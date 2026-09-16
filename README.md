@@ -13,7 +13,7 @@ I am a Software Engineering and Management B.Sc. 3rd year student @ University o
 - <a href="https://youtube.com/@tomizdev">Videos</a> about programming, devlogs, and my projects
 - Expanding my GitHub repositories & contributing @ <a href="https://skipgu.org/">Skip</a>.
 - Experimenting with various remote & locally running LLMs
-- HomeLab Setup (with NAS and useful services for every day use) (ON HOLD)
+- HomeLab Setup (with NAS and useful services for every day use) (NEXT YEAR)
 - Swimming data reader/statistics from Strava/Apple Health - CLI/TUI (ON HOLD)
 - Interactive Map of Tram Accessibility for Wheelchair users - Bratislava (ON HOLD)
 - <a href="https://github.com/TomiZ87/ZGP-P">ZGP-P</a> - Zajic's Ground Probe Programme - An Embedded system development project (ZGP-3 SOON)
