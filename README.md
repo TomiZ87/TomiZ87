@@ -22,6 +22,7 @@ I am a Software Engineering and Management B.Sc. 3rd year student @ University o
 - Machine Learning
 - How to better swim!
 - Linear Algebra & Calculus
+  Working with E-ink screens
 - Data Structures and Algorithms
 - Geographical Information System (GIS)
 - Diving into Linux and its distributions
