@@ -34,7 +34,7 @@ I am a Software Engineering and Management B.Sc. 3rd year student @ University o
 ### 🧰 Tech & Tools I Use / have used
 - **Languages:** C/C++, C#, Python, Java, JavaScript, TypeScript, Go + Learning Rust, Haskell & Bash
 - **Embedded systems and devices:** Arduino, Raspberry Pi, Wio Terminal, sensors & modules
-- **Tools:** Git, Docker, Matlab, Minitab, Jupyter, Jekyll, QGIS, Express.js, Vue.js, BootstrapVueNext, PostgreSQL, MongoDB + Learning NVIM
+- **Tools:** Git, Docker, Matlab, Minitab, Jupyter Notebook, Jekyll, QGIS, Express.js, Vue.js, BootstrapVueNext, PostgreSQL, MongoDB + Learning NVIM
 
 ---
 
