@@ -24,8 +24,8 @@ I am a Software Engineering and Management B.Sc. 3rd year student @ University o
 - Linear Algebra & Calculus
 - Working with E-ink screens
 - Data Structures and Algorithms
-- Geographical Information System (GIS)
 - Diving into Linux and its distributions
+- Geographical Information System (GIS)
 - Swedish (B1->B2) & Occasionally Linguistics
 - (Always) how to make code less ugly and optimized
 - Embedded and Real-Time systems - Arduino, Raspberry PI & Wio Terminal...
