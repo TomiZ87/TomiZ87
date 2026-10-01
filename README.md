@@ -7,7 +7,7 @@ I am a Software Engineering and Management B.Sc. 3rd year student @ University o
 
 ### 🔭 What I'm Working On
 - Personal Website
-- Game Development & Devlogs
+- Game Development & Devlog videos
 - CLI tool for productivity in Rust (ON HOLD)
 - Improving my speaking, teaching & presenting skills
 - <a href="https://youtube.com/@tomizdev">Videos</a> about programming, devlogs, and my projects
