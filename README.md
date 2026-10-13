@@ -27,7 +27,7 @@ I am a Software Engineering and Management B.Sc. 3rd year student @ University o
 - Geographical Information System (GIS)
 - Swedish (B1->B2) & Occasionally Linguistics
 - (Always) how to make code less ugly and optimized
-- Embedded and Real-Time systems - Arduino, Raspberry PI & Wio Terminal...
+- Embedded, Embodied, and Real-Time systems - Arduino, Raspberry PI & Wio Terminal...
 - About Functional, Object-Oriented, Reactive, Procedural and other Programming paradigms
 
 ### 🧰 Tech & Tools I Use / have used
