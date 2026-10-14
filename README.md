@@ -1,5 +1,5 @@
 # Hi there 👋 :shipit:
-I am a Software Engineering and Management B.Sc. 3rd year student @ University of Gothenburg (GU) & Chalmers University of Technology breaking myths about ♿ Always on the lookout for new challenges!
+I am a Software Engineering and Management B.Sc. final/3rd year student @ University of Gothenburg (GU) & Chalmers University of Technology breaking myths about ♿ Always on the lookout for new challenges!
 
 <a href="https://www.linkedin.com/in/tomas-zajic/">LinkedIn</a> | 🪑 Chairman @ <a href="https://skipgu.org/">Skip</a> - Student Association for Knowledge in Informatics and Programming at the University of Gothenburg
 
