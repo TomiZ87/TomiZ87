@@ -1,7 +1,7 @@
 # Hi there 👋 :shipit:
 I am a Software Engineering and Management B.Sc. final/3rd year student @ University of Gothenburg (GU) & Chalmers University of Technology breaking myths about ♿ Always on the lookout for new challenges!
 
-<a href="https://www.linkedin.com/in/tomas-zajic/">LinkedIn</a> | 🪑 Chairman @ <a href="https://skipgu.org/">Skip</a> - Student Association for Knowledge in Informatics and Programming at the University of Gothenburg
+<a href="https://www.linkedin.com/in/tomas-zajic/">LinkedIn</a> | 🪑 Chairman @ <a href="https://skipgu.org/">Skip</a> - Student Association for Knowledge in Informatics and Programming at the University of Gothenburg based on Campus Lindholmen
 
 💻 Linux, CLI & TUI enthusiast 🖥️
 
