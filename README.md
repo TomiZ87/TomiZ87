@@ -31,7 +31,7 @@ I am a Software Engineering and Management B.Sc. final/3rd year student @ Univer
 - About Functional, Object-Oriented, Reactive, Procedural and other Programming paradigms
 
 ### 🧰 Tech & Tools I Use / have used
-- **Languages:** C/C++, C#, Python, Java, JavaScript, TypeScript, Go + Learning Rust, Haskell & Bash
+- **Languages:** C/C++ & C#, Python, Java, JavaScript, TypeScript, Go + Learning Rust, Haskell & Bash
 - **Embedded systems and devices:** Arduino, Raspberry Pi, Wio Terminal, sensors & modules
 - **Tools:** Git, Docker, Matlab, Minitab, Jupyter Notebook, Jekyll, QGIS, Express/Vue.js, BootstrapVueNext, PostgreSQL, MongoDB + Learning NVIM
 
