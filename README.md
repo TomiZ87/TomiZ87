@@ -23,7 +23,6 @@ I am a Software Engineering and Management B.Sc. final and 3rd year student @ Un
 - Working with E-ink screens
 - Machine Learning & Calculus
 - Data Structures and Algorithms
-- Diving into Linux and its distributions
 - Geographical Information System (GIS)
 - Swedish (B1->B2) & Occasionally Linguistics
 - (Always) how to make code less ugly and more optimized
