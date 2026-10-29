@@ -27,7 +27,7 @@ I am a Software Engineering and Management B.Sc. 3rd & final year student @ Univ
 - Swedish (B1->B2) & Occasionally Linguistics
 - (Always) how to make code less ugly and more optimized
 - Embedded, Embodied, and Real-Time systems - Arduino, Raspberry PI & Wio Terminal...
-- About Functional, Object-Oriented, Reactive, Procedural and other Programming paradigms
+- About Functional, Object-Oriented, Reactive, Procedural and other Programming paradigms and styles
 
 ### 🧰 Tech & Tools I Use / have used
 - **Languages:** C/C++ & C#, Python, Java, JavaScript, TypeScript, Go + Learning Rust, Haskell & Bash
