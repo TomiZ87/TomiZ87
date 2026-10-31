@@ -20,7 +20,6 @@ I am a Software Engineering and Management B.Sc. 3rd & final year student @ Univ
 
 ### 🌱 What I'm Learning
 - How to better swim!
-- Working with E-ink screens
 - Machine Learning & Calculus
 - Data Structures and Algorithms
 - Geographical Information System (GIS)
