@@ -22,7 +22,6 @@ I am a Software Engineering and Management B.Sc. 3rd & final year student @ Univ
 - How to better swim!
 - Machine Learning & Calculus
 - Data Structures and Algorithms
-- Geographical Information System (GIS)
 - Swedish (B1->B2) & Occasionally Linguistics
 - (Always) how to make code less ugly and more optimized
 - Embedded, Embodied, and Real-Time systems - Arduino, Raspberry PI & Wio Terminal...
