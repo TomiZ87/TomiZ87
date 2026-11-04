@@ -1,7 +1,7 @@
 # Hi there 👋 :shipit:
 I am a Software Engineering and Management B.Sc. 3rd & final year student @ University of Gothenburg (GU) & Chalmers University of Technology breaking myths about ♿ Always on the lookout for new challenges!
 
-<a href="https://www.linkedin.com/in/tomas-zajic/">LinkedIn</a> | 🪑 Chairman @ <a href="https://skipgu.org/">Skip</a> - Student Association for Knowledge in Informatics and Programming at the University of Gothenburg - Department of Computer Science and Engineering (Data- och informationsteknik Institutionen) based on Campus Lindholmen
+[LinkedIn](https://www.linkedin.com/in/tomas-zajic/) | 🪑 Chairman @ [Skip](https://skipgu.org/) - Student Association for Knowledge in Informatics and Programming at the University of Gothenburg - Department of Computer Science and Engineering (Data- och informationsteknik Institutionen) based on Campus Lindholmen
 
 💻 Linux, CLI & TUI enthusiast 🖥️
 
@@ -10,13 +10,13 @@ I am a Software Engineering and Management B.Sc. 3rd & final year student @ Univ
 - Game Development & Devlog videos
 - CLI tool for productivity in Rust (ON HOLD)
 - Improving my speaking, teaching & presenting skills
-- <a href="https://youtube.com/@tomizdev">Videos</a> about programming, devlogs, and my projects
-- Expanding my GitHub repositories & contributing to <a href="https://skipgu.org/">Skip</a>.
+- [Videos](https://youtube.com/@tomizdev) about programming, devlogs, and my projects
+- Expanding my GitHub repositories & contributing to [Skip](https://skipgu.org/).
 - Experimenting with various remote & locally running LLMs
 - HomeLab Setup (NAS and other useful services for every day use) (NEXT YEAR)
-- <a href="https://github.com/TomiZ87/HealthOS">Swimming data reader/statistics from Strava/Apple Health</a> - CLI/TUI (ON HOLD)
+- [Swimming data reader/statistics from Strava/Apple Health](https://github.com/TomiZ87/HealthOS) - CLI/TUI (ON HOLD)
 - Interactive Map of Tram Accessibility for Wheelchair users - Bratislava (ON HOLD)
-- <a href="https://github.com/TomiZ87/ZGP-P">ZGP-P</a> - Zajic's Ground Probe Programme - An Embedded system development project (ZGP-3 SOON)
+- [ZGP-P](https://github.com/TomiZ87/ZGP-P) - Zajic's Ground Probe Programme - An Embedded system development project (ZGP-3 SOON)
 
 ### 🌱 What I'm Learning
 - How to better swim!
