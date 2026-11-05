@@ -3,7 +3,7 @@ I am a Software Engineering and Management B.Sc. 3rd & final year student @ Univ
 
 [LinkedIn](https://www.linkedin.com/in/tomas-zajic/) | 🪑 Chairman @ [Skip](https://skipgu.org/) - Student Association for Knowledge in Informatics and Programming at the University of Gothenburg - Department of Computer Science and Engineering (Data- och informationsteknik Institutionen) based on Campus Lindholmen
 
-💻 Linux, CLI & TUI enthusiast 🖥️
+## 💻 Linux, CLI & TUI enthusiast 🖥️
 
 ### 🔭 What I'm Working On
 - Personal Website
